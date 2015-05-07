@@ -8,6 +8,7 @@ gem 'carrierwave',             '0.10.0'
 gem 'mini_magick',             '3.8.0'
 gem 'fog',                     '1.23.0'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+gem 'simple_form'
 gem 'sass-rails',              '5.0.2'
 gem "font-awesome-rails"       
 gem 'uglifier',                '2.5.3'
