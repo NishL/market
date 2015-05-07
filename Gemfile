@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+#Base App
 gem 'rails',                   '4.2.0'
 gem 'devise',                  '3.4.1'
 gem 'faker',                   '1.4.2'
@@ -8,7 +9,7 @@ gem 'mini_magick',             '3.8.0'
 gem 'fog',                     '1.23.0'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 gem 'sass-rails',              '5.0.2'
-gem "font-awesome-rails"       '4.3.0.0'
+gem "font-awesome-rails"       
 gem 'uglifier',                '2.5.3'
 gem 'coffee-rails',            '4.1.0'
 gem 'jquery-rails',            '4.0.3'
