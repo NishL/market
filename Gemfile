@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-#Base App
+#Marketplace
 gem 'rails',                   '4.2.0'
 gem 'devise',                  '3.4.1'
 gem 'faker',                   '1.4.2'
@@ -10,7 +10,8 @@ gem 'fog',                     '1.23.0'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 gem 'simple_form'
 gem 'sass-rails',              '5.0.2'
-gem "font-awesome-rails"       
+gem 'font-awesome-rails'       
+gem 'cancancan',             '~> 1.10'
 gem 'uglifier',                '2.5.3'
 gem 'coffee-rails',            '4.1.0'
 gem 'jquery-rails',            '4.0.3'
